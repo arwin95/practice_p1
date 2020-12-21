@@ -8,6 +8,15 @@ name of the game, why you're building it, link to the live version
 ## Blah
 blah blah bl;mv kmwlkmnv  klmdlksmclkwe we kmkldem nndqwm dmqwdklwmdmwd,.qwmdmqwjdwqmdqw,.mdlkwmqd1mwdkjq
 
-##  -
+## list
+### List looks like this:
+-
+-
+-
+
+linebreak... below
+
+---
+
 
 ![Image of yakocat](https://octodex.github.com/images/yaktocat.png)
